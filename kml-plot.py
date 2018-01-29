@@ -11,8 +11,8 @@ from mpl_toolkits.axes_grid1 import make_axes_locatable
 import matplotlib.ticker as ticker
 
 # Filename of the scan - read as the user input
-name = sys.argv[1]
-filename = name+'.csv'
+filename = sys.argv[1]
+name = filename[:-4]
 
 # Read data
 data = np.genfromtxt(filename, delimiter=',')
