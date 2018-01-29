@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <GroundOverlay id="feat_2">
+            <name>Map</name>
+            <Icon id="link_0">
+                <href>drone-scan-10m-podova-mapper-2dB-gw-2dB-irnas-3g-Overlay.png</href>
+            </Icon>
+            <gx:LatLonQuad>
+                <coordinates>15.682072,46.428896,0.0 15.686965,46.428896,0.0 15.686965,46.433177,0.0 15.682072,46.433177,0.0</coordinates>
+            </gx:LatLonQuad>
+        </GroundOverlay>
+        <GroundOverlay id="feat_3">
+            <name>Scatter</name>
+            <Icon id="link_1">
+                <href>drone-scan-10m-podova-mapper-2dB-gw-2dB-irnas-3g-OverlayScatter.png</href>
+            </Icon>
+            <gx:LatLonQuad>
+                <coordinates>15.6769659909,46.4238205909,0.0 15.6920710091,46.4238205909,0.0 15.6920710091,46.4382524091,0.0 15.6769659909,46.4382524091,0.0</coordinates>
+            </gx:LatLonQuad>
+        </GroundOverlay>
+    </Document>
+</kml>
